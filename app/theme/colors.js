@@ -1,0 +1,14 @@
+const Colors = {
+    COLOR_PRIMARY: '#183650',
+    COLOR_PRIMARY_DARK: '#0c1b29',
+    COLOR_PRIMARY_LIGHT: '#123F65',
+    COLOR_SECONDARY: '#666666',
+    COLOR_SECONDARY_DARK: '#545454',
+    COLOR_WHITE: '#fff',
+    COLOR_THEME_WHITE: '#fff',
+    COLOR_BLACK: '#000',
+    COLOR_THEME_BLACK: '#000',
+    COLOR_HEADER_BACKGROUND: '#EDEDED',
+    COLOR_BORDER_LINE: '#9A9A9A',
+  };
+export default Colors  
